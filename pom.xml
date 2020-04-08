@@ -45,6 +45,7 @@
                     </execution>
                     <execution> <!-- id (придумываем сами) -->
                         <id>check</id>
+                        <phase>verify</phase>
                         <goals> <!-- какую цель выполняем (берём из справки) -->
                             <goal>check</goal>
                         </goals>
